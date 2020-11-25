@@ -1,0 +1,15 @@
+# pycharm stuff
+.idea
+
+# R stuff
+.Rproj.user
+.Rhistory
+experiments.Rproj
+
+# python stuff
+__pycache__
+
+# stuff I don't want to commit just yet
+docs/
+log/
+reports/
